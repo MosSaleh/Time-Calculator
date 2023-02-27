@@ -94,7 +94,6 @@ def add_time(start, duration, weekday=False):
 
     if weekday is not False:
         finalday = dayofweek(weekday)
-        # new_time = new_time.replace(dayslater, ", " + finalday + dayslater)
         new_time = (
             str(finalhour)
             + ":"
