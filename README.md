@@ -1,1 +1,2 @@
 # Time-Calculator
+Project based on freecodecamp projectlist, where one must create a function that takes two arguments (start time, and added time) and an optional third argument for the day of the week and calculates the resulting time, including AM or PM, how many days later and the day of the week.
